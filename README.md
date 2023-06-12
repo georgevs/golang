@@ -1,6 +1,5 @@
 # Golang
 
-## Resources
 Basic...  
 [Go playground](https://go.dev/play/)  
 [A tour of Go](https://go.dev/tour/list)  
@@ -17,6 +16,9 @@ Going even more deeper...
 [Advanced Go Concurrency Patterns](https://go.dev/talks/2012/concurrency.slide)  
 [A simple programming environment](https://go.dev/talks/2012/simple.slide)  
 [Writing Web Applications](https://go.dev/doc/articles/wiki/)  
+
+Java to Golang converter...  
+[CodeConvert](https://www.codeconvert.ai/java-to-golang-converter)  
 
 ## Setup Golang environment with Docker
 
